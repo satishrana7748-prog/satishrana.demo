@@ -9,6 +9,7 @@ B.Tech CSE (AI/ML) Student
 - FastAPI
 - React
 - OpenCV
+- C/C++
 - Git & GitHub
 
 ## Featured Projects
